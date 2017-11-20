@@ -1,0 +1,15 @@
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th {pading: 15px}
+#blue {background-color: powderblue}
+#yellow {background-color: yellow}
+#green{background-color: yellowgreen}
+#magenta {background-color: magenta}
+#lightblue {background-color: dodgerblue}
+#Crimson {background-color: Crimson}
+#BlueViolet {background-color: BlueViolet}
+#Aquamarine {background-color: Aquamarine}
+#OrangeRed {background-color: OrangeRed}

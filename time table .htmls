@@ -1,0 +1,40 @@
+<html>
+<head>
+<title></title>
+</head>
+<body><center>TIME TABLE</center>
+<table>
+<tr>
+<th>time slot</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+<tr>
+<td>9-9.30</td>
+<td>yoga and meditation</td>
+<td colspan="2"> personal coaching 9.15 to 11.15</td>
+<td>Yoga and meditation</td>
+<td colspan="2"> personal coaching 9.15-11.15</td>
+</tr>
+<tr>
+<td>9.30-10</td>
+<td>Touchtyping and Blogging</td>
+<td colspan="2" rowspan="4">English-Bc Elementary</td>
+<td colspan="2"> personal coaching / touchtyping and Blogging</td>
+</tr>
+<td colspan="2">programming theory</td>
+<td colspan="2">personal coaching touchtyping and blogging</td>
+</tr>
+<tr>
+<td>12.1</td>
+<td rowspan="5"><center>lunch break-Carom, Badminton</td></tr>
+<tr>
+  <td>1-2</td>
+  <td>programming Practicals </td>
+  <td>programming theory</td>
+  <td>programming theory</td>
+  <td>programming theory</td>
+  <td>programming theory</td>
